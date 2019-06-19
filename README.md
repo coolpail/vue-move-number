@@ -20,5 +20,4 @@ Vue.use(MoveNumber);
 <move-number :number=num :width=width :height="height"></move-number>   //num传入的数字， width和height是每个数字的宽高
 
 ```
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> write your meaaage
+
