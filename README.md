@@ -12,7 +12,7 @@ npm install --save vue-move-number
 
 ### 引入
 ```
-import MoveNumber from "vue-move-number";
+import MoveNumber from "vue-move-number"
 Vue.use(MoveNumber);
 ```
 
